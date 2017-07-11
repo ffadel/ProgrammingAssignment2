@@ -1,5 +1,9 @@
-## Put comments here that give an overall description of what your
-## functions do
+## Programming Assignment 2 - Calculate Matrix Inverse.
+## the purpose of the functions is to reduce the calculcation of the inverse matrix calculcation
+# in instances where the matrix has not changed.
+# The function will cache the matrix calculcation and check on the next call is the matrix value has changes or not.
+# If there is no change then simply retrieve the cached value of the inverse calculcation.
+# else solve the inverse of the matrix.
 
 ## Write a short comment describing this function
 
